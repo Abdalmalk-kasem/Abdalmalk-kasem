@@ -47,6 +47,6 @@ The E-commerce app showcases my proficiency in frontend development, emphasizing
 ## 📫 Let's Connect
 
 - LinkedIn: [abdalmalk-kasem](https://www.linkedin.com/in/abdalmalk-kasem-37b628274/)
-- Twitter: [abdalmalk_kasem]([https://twitter.com/your-twitter-profile](https://twitter.com/abdalmalk_kasem))
+- Twitter: [abdalmalk_kasem](https://twitter.com/abdalmalk_kasem)
 - Portfolio: [Your Portfolio Website](https://www.your-portfolio.com)
 
