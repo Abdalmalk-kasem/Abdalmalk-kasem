@@ -1,4 +1,4 @@
-# Hello, I'm [Abdalmalk kasem]👋
+# Hello, I'm Abdalmalk kasem👋
 
 I'm a passionate self-taught front-end developer with a love for crafting engaging and user-friendly experiences on the web. My journey in the world of web development has been marked by continuous learning, creative problem-solving, and a commitment to building meaningful projects.
 
@@ -46,7 +46,7 @@ The E-commerce app showcases my proficiency in frontend development, emphasizing
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/abdalmalk-kasem-37b628274/)
-- Twitter: [Your Twitter Profile](https://twitter.com/your-twitter-profile)
+- LinkedIn: [abdalmalk-kasem](https://www.linkedin.com/in/abdalmalk-kasem-37b628274/)
+- Twitter: [abdalmalk_kasem]([https://twitter.com/your-twitter-profile](https://twitter.com/abdalmalk_kasem))
 - Portfolio: [Your Portfolio Website](https://www.your-portfolio.com)
 
