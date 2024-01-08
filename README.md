@@ -5,8 +5,8 @@ I'm a passionate self-taught front-end developer with a love for crafting engagi
 ## 🔧 Skills
 
 - **Languages:** HTML5, CSS3, JavaScript
-- **Frameworks/Libraries:** ReactJS, React Router, Redux, BlurHash
-- **Tools:** Git, Visual Studio Code
+- **Frameworks/Libraries:** ReactJS, React Router, Redux
+- **Tools:** Git, Visual Studio Code, Firebase
 
 ## 🌱 Learning
 
